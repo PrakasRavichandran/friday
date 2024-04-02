@@ -1,0 +1,4 @@
+### Friday AI
+
+![](./friday.jpg)
+
